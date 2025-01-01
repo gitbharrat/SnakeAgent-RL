@@ -30,7 +30,7 @@ The Snake game is created using **Pygame**, where the agent interacts with the e
   <img src="Loss.png" alt="Score per iterations" />
 </div>
 
-In the beginning, the agent moves randomly, bumping into walls and itself frequently. With each game, the agent becomes smarter. It starts understanding where the food is and avoids collisions more often. After many games, the agent becomes a skilled player. It maneuvers the snake like a pro, finding food efficiently and avoiding danger.&#x20;
+In the beginning, the agent should move randomly, bumping into walls and itself frequently. With each game, the agent should become smarter, understanding where the food is and avoiding collisions more often. Ideally, after many games, the agent should become a skilled player, maneuvering the snake like a pro, finding food efficiently, and avoiding danger. However, the model's mean score showed a logarithmic scale pattern, indicating that a deeper model is required for further training.
 
 ## License 
 
