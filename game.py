@@ -29,7 +29,7 @@ GREEN   = (0,110,0)
 
 #Parameters
 BLOCK_SIZE  = 20
-SPEED       = 2
+SPEED       = 200
 
 
 class SnakeGameAI:
