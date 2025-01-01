@@ -25,6 +25,9 @@ The Snake game is created using **Pygame**, where the agent interacts with the e
 **Training**: Learns immediately from recent moves (short-term memory) and Uses past experiences to improve stability (long-term memory).
 
 ### The Agent’s Journey 
+<div align="center">
+  <img src="loss.png" alt="Score per iterations" />
+</div>
 
 In the beginning, the agent moves randomly, bumping into walls and itself frequently. With each game, the agent becomes smarter. It starts understanding where the food is and avoids collisions more often. After many games, the agent becomes a skilled player. It maneuvers the snake like a pro, finding food efficiently and avoiding danger.&#x20;
 
