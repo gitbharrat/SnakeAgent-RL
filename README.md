@@ -1,6 +1,6 @@
 # Snake Agent 
 
-<img src="output.gif"></img>
+<center><img src="output.gif"></img></center>
 
 Welcome to my first hands-on project with reinforcement learning! This simple yet exciting project is all about teaching an agent to play the classic Snake game using **Deep Q-Learning**The agent learns through trial and error, improving its strategy step by step.&#x20;
 
